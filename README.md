@@ -21,5 +21,5 @@
 ### :man_technologist: :man_scientist: About Me :
 
 - :mortar_board: I graduated with a Master’s degree in Medical Biotechnologies at the University of Padova (IT)
-- :computer:: I am currently a *PhD student* in Computational Biology at the European Institute of Oncology in Milan (IT)
+- :computer: I am currently a *PhD student* in Computational Biology at the European Institute of Oncology (IEO) in Milan (IT)
 - :dna: I am interested in cancer genomics and transcriptomics with a focus on hematologic malignancies
