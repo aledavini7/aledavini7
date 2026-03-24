@@ -20,6 +20,7 @@
 
 ### :man_technologist: :man_scientist: About Me :
 
-- :mortar_board: I graduated with a Master’s degree in Medical Biotechnologies at the University of Padova (IT)
-- :computer: I am currently a *PhD student* in Computational Biology at the European Institute of Oncology (IEO) in Milan (IT)
-- :dna: I am interested in cancer genomics and transcriptomics with a focus on hematologic malignancies
+- :computer: Computational Biology at the European Institute of Oncology (IEO) in Milan (IT)
+- :mortar_board: I hold a PhD from the European School of Molecular Medicine (SEMM)
+- :dna: My research interests include cancer genomics, single-cell transcriptomics, and the role of mitochondrial DNA variation in cancer
+
