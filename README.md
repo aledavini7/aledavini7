@@ -20,7 +20,7 @@
 
 ### :man_technologist: :man_scientist: About Me :
 
-- :computer: Computational Biology at the European Institute of Oncology (IEO) in Milan (IT)
-- :mortar_board: I hold a PhD from the European School of Molecular Medicine (SEMM)
+- :computer: Computational Biologist at the European Institute of Oncology (IEO) in Milan (IT)
+- :mortar_board: I hold a PhD in Systems Medicine from the European School of Molecular Medicine (SEMM)
 - :dna: My research interests include cancer genomics, single-cell transcriptomics, and the role of mitochondrial DNA variation in cancer
 
