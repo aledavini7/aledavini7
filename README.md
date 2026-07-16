@@ -39,18 +39,3 @@
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### GitHub vitals
-
-### GitHub vitals
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aledavini7&theme=tokyonight" alt="GitHub profile summary"/>
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aledavini7&theme=tokyonight" alt="Repos per language"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aledavini7&theme=tokyonight" alt="Most commit language"/>
-
-</div>
