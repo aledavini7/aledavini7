@@ -8,7 +8,7 @@
 </h1>
 
 <p align="center">
-  Computational biologist and postdoctoral researcher at the European Institute of Oncology, working at the intersection of cancer genomics, transcriptomics, and mitochondrial DNA.
+  Computational biologist and postdoctoral researcher at the European Institute of Oncology, working on cancer genomics and transcriptomics, with a particular interest in mitochondrial genetics.
 </p>
 
 <div align="center">
@@ -27,8 +27,8 @@
 
 ### Currently
 
-- Postdoctoral researcher in Computational Biology at the European Institute of Oncology, Milan
-- Working on cancer genomics, transcriptomics, and mitochondrial DNA
+- Postdoctoral researcher at the European Institute of Oncology, Milan
+- Working on cancer genomics, transcriptomics, and mitochondrial genetics
 - Mitochondria enthusiast, because every good story needs a powerhouse
 
 ### Tools I frequently negotiate with
