@@ -13,7 +13,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=40&pause=500&color=3AC486&center=true&vCenter=true&width=700&lines=Computational+Biology;Cancer+Genomics;Transcriptomics;Mitochondrial+DNA;Still+debugging+that+one+pipeline" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=700&color=3AC486&center=true&vCenter=true&width=700&lines=Computational+Biology;Cancer+Genomics;Transcriptomics;Mitochondrial+DNA;Still+debugging+that+one+pipeline" alt="Typing SVG"/>
   </a>
 </div>
 
